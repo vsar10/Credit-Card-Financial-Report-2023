@@ -14,6 +14,7 @@ Responsibilities:
 •	Collaborated with cross-functional teams to ensure the dashboard met business requirements and aligned with overall organizational goals.
 
 Dax Queries Used: 
+
 AgeGroup = SWITCH(
  TRUE(),
  'public cust_detail'[customer_age] < 30, "20-30",
